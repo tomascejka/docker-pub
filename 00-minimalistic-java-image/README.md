@@ -10,6 +10,8 @@ docker build . -t tomascejka/java-hello-world:latest
 ```
 docker run --rm --name java-hello tomascejka/java-hello-world:latest
 ```
+
+## Others
 Build from given Dockerfile
 <pre>
 FROM eclipse-temurin:19-jdk-alpine
