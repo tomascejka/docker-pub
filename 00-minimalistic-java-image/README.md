@@ -9,7 +9,6 @@ docker build . -t tomascejka/java-hello-world:latest
 ## Run
 ```
 docker run --rm --name java-hello tomascejka/java-hello-world:latest
-Hello world!
 ```
 Build from given Dockerfile
 <pre>
