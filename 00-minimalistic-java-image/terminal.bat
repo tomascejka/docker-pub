@@ -1,4 +1,4 @@
-@echo offline
+@echo off
 rem
 rem @see https://learn.microsoft.com/cs-cz/windows/terminal/
 rem
