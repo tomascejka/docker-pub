@@ -1,7 +1,7 @@
 # Minimalistic java docker file
 Dockerfile for study approach
 
-'''
+<code>
 FROM eclipse-temurin:19-jdk-alpine
 
 RUN echo '\
@@ -10,8 +10,8 @@ public class HelloWorld {\
         System.out.println("Hello, World!");\
     }\
 }'\
->> HelloWorld.java
+&gt;&gt; HelloWorld.java
 
 RUN javac HelloWorld.java
 CMD ["java", "HelloWorld"]
-'''
+</code>
