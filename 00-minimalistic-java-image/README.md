@@ -1,5 +1,5 @@
 # Minimalistic java docker file
-Dockerfile for study approach.
+Dockerfile for study approach. Docker image has been uploaded into docker hub, see https://hub.docker.com/repository/docker/tomascejka/java-hello-world.
 
 ## Build image
 ```
@@ -27,4 +27,3 @@ RUN javac HelloWorld.java
 CMD ["java", "HelloWorld"]
 </pre>
 
-Docker image has been uploaded into docker hub, see https://hub.docker.com/repository/docker/tomascejka/java-hello-world.
