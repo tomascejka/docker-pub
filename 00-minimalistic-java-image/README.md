@@ -28,3 +28,5 @@ RUN javac HelloWorld.java
 CMD ["java", "HelloWorld"]
 </pre>
 
+## Sources
++ https://hub.docker.com/_/eclipse-temurin/
