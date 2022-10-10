@@ -1,4 +1,4 @@
-# Minimalistic java docker file
+# Minimalistic java image
 Dockerfile for study approach. Docker image has been uploaded into docker hub, see https://hub.docker.com/repository/docker/tomascejka/java-hello-world.
 
 ## Build image
